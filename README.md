@@ -1,5 +1,6 @@
 Primeira Atividade Prática - Avaliativa - AP1# AP1
 Para realizar esta tarefa, de acordo com a instrução passada, foi assistido os vídeos da Rafaella Ballerini que estão com link dentro do tema Usando o GitHub;
+Foi criada uma pasta no computador com o nome de projetoAP1 para colocar os arquivos necessário para execução do exercício. Está pasta também foi aberta no Visual Studio Code para realização das edições dos arquivos. Com o Git instalado, foi aberto o sub menu da pasta e escolhida a opção “Open Git Bash here” e, aberto a janela de comando do Git, foi realizada os comandos necessário para que houvesse o compartilhamento e atualizações dos arquivos;
 Foi criado o arquivo README.md para descrever como a atividade foi realizada sendo alimentada a informação no decorrer do exercício;
 Foi criado um arquivo AP1.java tendo como a classe principal “class AP1” que contém um menu de oito opções onde:
 A opção 1 ativa a classe CalculadoraDesconto e ela utiliza a classe Scanner para receber o valor de um produto e uma porcentagem de desconto. Calcule e exiba o valor do desconto e o preço final do produto após aplicar o desconto.
