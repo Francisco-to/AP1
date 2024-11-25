@@ -10,4 +10,5 @@ A opção 5 liga a classe CircuitoResistencias. Ela é capaz de receber o valor 
 A opção 6 processa a classe SistemaLogin e ela simula o acesso a um sistema solicitando login e senha. Compare os dados inseridos com os valores "java8". O usuário tem três tentativas para acertar, com mensagens de erro informativas a cada falha.
 A opção 7 liga a classe GeradorTabuada. Ela solicita ao usuário um número e apresente a tabuada deste número de 1 a 10, utilizando um loop para gerar os resultados.
 A opção 0 sai do sistema.
-Caso seja digitado um opção que não esteja no Menu, o sistema informa ao usuário que opção é invalida.
+Caso seja digitado uma opção que não esteja no Menu, o sistema informa ao usuário que opção é invalida. 
+Finalizando, o link do repositório foi copiado e colado na atividade.
